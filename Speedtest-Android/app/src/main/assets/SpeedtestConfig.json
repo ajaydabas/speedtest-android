@@ -1,1 +1,28 @@
-{}
+{
+    "dl_ckSize":"100",
+    "ul_ckSize":"20",
+    "dl_parallelStreams":"3",
+    "ul_parallelStreams":"3",
+    "dl_streamDelay":"300",
+    "ul_streamDelay":"300",
+    "time_dl_max":"15",
+    "time_ul_max":"15",
+    "count_ping":"10",
+    "dl_graceTime":"1.5",
+    "dl_graceTime":"1.5",
+    "errorHandlingMode":"attempt-restart",
+    "getIP_isp:"true",
+    "getIP_distance:"km",
+    "overheadCompensationFactor":"1.5",
+    "useMebibits":"false",
+    "test_order":"IP-D-U",
+    "dl_connectTimeout":"5000",
+    "ul_connectTimeout":"5000",
+    "ping_connectTimeout":"2000",
+    "dl_recvBuffer":"-1",
+    "dl_sendBuffer":"-1",
+    "ul_recvBuffer":"-1"
+    "ul_sendBuffer":"-1",
+    "ping_recvBuffer":"-1",
+    "ping_sendBuffer":"-1"
+}
